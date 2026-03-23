@@ -12,9 +12,9 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <style>
-    /* Definindo as novas cores */
+    
     :root {
-      --main-green: #1E8449; /* Verde principal um pouco mais escuro */
+      --main-green: #1E8449; 
       --dark-bg: #1a1a1a;
       --light-text: #f8f9fa;
       --light-gray: #f0f0f0;
@@ -23,41 +23,40 @@
     }
 
     body {
-      font-family: 'Open Sans', sans-serif; /* Fonte mais suave para o corpo */
-      background-color: var(--dark-bg); /* Preto suave */
-      color: var(--light-text); /* Off-white para o texto padrão */
+      font-family: 'Open Sans', sans-serif; 
+      background-color: var(--dark-bg); 
+      color: var(--light-text); 
       line-height: 1.6;
-      /* Efeito de iluminação verde no topo, ajustado para o novo tom */
       background-image: linear-gradient(to bottom, rgba(30, 132, 73, 0.3), rgba(30, 132, 73, 0) 30%, var(--dark-bg) 60%);
-      background-attachment: fixed; /* Para que o gradiente fique fixo no topo da viewport */
+      background-attachment: fixed; 
       background-repeat: no-repeat;
       background-position: top center;
-      background-size: 100% 100vh; /* Ocupa a largura total e a altura da viewport */
+      background-size: 100% 100vh; 
     }
     h1, h2, h3, h4 {
-      font-family: 'Montserrat', sans-serif; /* Montserrat para títulos */
+      font-family: 'Montserrat', sans-serif; 
     }
 
     .glass-card {
-      backdrop-filter: blur(15px); /* Blur mais sutil */
-      background: rgba(255, 255, 255, 0.08); /* Fundo quase transparente, mais elegante */
-      border-radius: 1.25rem; /* Bordas mais arredondadas */
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); /* Sombra mais pronunciada */
+      backdrop-filter: blur(15px); 
+      background: rgba(255, 255, 255, 0.08); 
+      border-radius: 1.25rem; 
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
       transition: all 0.4s ease-in-out;
     }
     .glass-card:hover {
-      transform: translateY(-8px) scale(1.01); /* Efeito de "levantar" mais acentuado */
+      transform: translateY(-8px) scale(1.01); 
       box-shadow: 0 15px 45px rgba(0, 0, 0, 0.4);
-      background: rgba(255, 255, 255, 0.12); /* Levemente mais opaco no hover */
+      background: rgba(255, 255, 255, 0.12); 
     }
 
     .input-field {
       width: 100%;
-      background: rgba(0, 0, 0, 0.4); /* Fundo mais transparente */
-      border-radius: 0.5rem; /* Bordas mais arredondadas */
-      padding: 0.75rem 1rem; /* Padding maior */
+      background: rgba(0, 0, 0, 0.4); 
+      border-radius: 0.5rem; 
+      padding: 0.75rem 1rem; 
       outline: none;
-      color: var(--light-text); /* Off-white */
+      color: var(--light-text); 
       transition: background 0.3s ease, box-shadow 0.3s ease;
       border: none;
     }
