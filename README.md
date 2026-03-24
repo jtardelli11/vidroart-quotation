@@ -7,8 +7,6 @@ Projeto acadêmico desenvolvido no curso de Ciência da Computação.
 🔗 Acesse o sistema online:
 https://jtardelli11.github.io/vidroart-quotation
 
----
-
 ## Demonstração
 
 Sistema permite:
@@ -18,8 +16,6 @@ Sistema permite:
 - Cálculo automático de área
 - Geração de orçamento em PDF profissional
 
----
-
 ## Tecnologias Utilizadas
 
 - HTML5
@@ -27,19 +23,16 @@ Sistema permite:
 - JavaScript
 - jsPDF
 
----
-
 ## Estrutura do Projeto
 
+index.html  
+css/style.css  
+js/app.js
 
----
-
-## Screenshot
+## 
 
 <img src="https://i.imgur.com/HziCJbE.png" width="800">
 
----
-
 ## Autor
 
-João Pedro Tardelli Anicezio
+João Pedro Tardelli 
