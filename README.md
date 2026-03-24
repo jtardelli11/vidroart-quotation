@@ -18,7 +18,7 @@ Sistema permite:
 
 ## Tecnologias Utilizadas
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 - jsPDF
