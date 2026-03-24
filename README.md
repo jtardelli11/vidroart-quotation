@@ -1,8 +1,8 @@
 # VIDROART MUZ - Sistema de Orçamentos
 
-Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidraçaria.
+Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidraçaria local.
 
-Projeto acadêmico desenvolvido no curso de Ciência da Computação.
+Projeto acadêmico desenvolvido no curso de Ciência da Computação, primeiro semestre de 2025.
 
 🔗 Acesse o sistema online:
 https://jtardelli11.github.io/vidroart-quotation
