@@ -29,6 +29,10 @@ Sistema permite:
 - css/style.css  
 - js/app.js
 
+## Preview do Sistema
+
+![Preview do sistema](https://i.imgur.com/r4TPzXk.png)
+
 ## 
 
 <img src="https://i.imgur.com/HziCJbE.png" width="800">
