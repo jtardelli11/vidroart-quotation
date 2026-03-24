@@ -2,7 +2,7 @@
 
 Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidraçaria local.
 
-Projeto acadêmico desenvolvido no curso de Ciência da Computação, primeiro semestre de 2025.
+Projeto acadêmico desenvolvido no primeiro semestre de 2025 do curso de Ciência da Computação.
 
 🔗 Acesse o sistema online:
 https://jtardelli11.github.io/vidroart-quotation
