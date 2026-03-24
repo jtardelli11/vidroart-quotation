@@ -25,9 +25,9 @@ Sistema permite:
 
 ## Estrutura do Projeto
 
-index.html  
-css/style.css  
-js/app.js
+- index.html  
+- css/style.css  
+- js/app.js
 
 ## 
 
