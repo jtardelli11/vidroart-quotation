@@ -1,16 +1,45 @@
-🌐 Acesse o sistema online:
-https://jtardelli11.github.io/vidroart-quotation
-
 # VIDROART MUZ - Sistema de Orçamentos
 
-Sistema de geração de orçamentos em HTML + JavaScript com exportação de PDF formatado.
+Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidraçaria.
 
-## Funcionalidades
+Projeto acadêmico desenvolvido no curso de Ciência da Computação.
 
-- Cadastro de dados do cliente
-- Adição dinâmica de produtos com detalhes técnicos
-- Cálculo automático de totais
-- Geração de PDF com visual profissional
-    
+🔗 Acesse o sistema online:
+https://jtardelli11.github.io/vidroart-quotation
+
+---
+
+## Demonstração
+
+Sistema permite:
+
+- Cadastro de cliente
+- Adição de produtos com medidas
+- Cálculo automático de área
+- Geração de orçamento em PDF profissional
+
+---
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- jsPDF
+
+---
+
+## Estrutura do Projeto
 
 
+---
+
+## Screenshot
+
+<img src="https://i.imgur.com/HziCJbE.png" width="800">
+
+---
+
+## Autor
+
+João Pedro Tardelli Anicezio
