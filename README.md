@@ -5,7 +5,7 @@ Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidr
 Projeto acadêmico desenvolvido no primeiro semestre de 2025 do curso de Ciência da Computação.
 
 🔗 Acesse o sistema online:
-https://jtardelli11.github.io/vidroart-quotation
+https://jtardelli11.github.io/vidroart-quotation-html
 
 ## Demonstração
 
