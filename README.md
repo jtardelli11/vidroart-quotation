@@ -1,4 +1,4 @@
-# VIDROART MUZ - Sistema de Orçamentos
+# VIDROART MUZ - Sistema de Orçamentos HTML
 
 Sistema web desenvolvido para facilitar a criação de orçamentos para uma vidraçaria local.
 
